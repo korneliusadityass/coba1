@@ -1,0 +1,14 @@
+com.example.coba1.app-core-1.6.0-0 C:\Users\adity\.gradle\caches\transforms-3\28017e09d425dec634b46fb11b36c9e7\transformed\core-1.6.0\res
+com.example.coba1.app-jetified-annotation-experimental-1.1.0-1 C:\Users\adity\.gradle\caches\transforms-3\295a27f49b33e8be56525d3ee40caefe\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.coba1.app-jetified-window-java-1.0.0-beta04-2 C:\Users\adity\.gradle\caches\transforms-3\470f4ca11b104ad5bc42180dfb3b086b\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.coba1.app-jetified-window-1.0.0-beta04-3 C:\Users\adity\.gradle\caches\transforms-3\7608a1597ffca4a01bd437f93e6649f8\transformed\jetified-window-1.0.0-beta04\res
+com.example.coba1.app-debug-4 E:\DATA\project\coba1\android\app\src\debug\res
+com.example.coba1.app-main-5 E:\DATA\project\coba1\android\app\src\main\res
+com.example.coba1.app-pngs-6 E:\DATA\project\coba1\build\app\generated\res\pngs\debug
+com.example.coba1.app-resValues-7 E:\DATA\project\coba1\build\app\generated\res\resValues\debug
+com.example.coba1.app-rs-8 E:\DATA\project\coba1\build\app\generated\res\rs\debug
+com.example.coba1.app-mergeDebugResources-9 E:\DATA\project\coba1\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.coba1.app-mergeDebugResources-10 E:\DATA\project\coba1\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.coba1.app-merged_res-11 E:\DATA\project\coba1\build\app\intermediates\merged_res\debug
+com.example.coba1.app-packaged_res-12 E:\DATA\project\coba1\build\path_provider_android\intermediates\packaged_res\debug
+com.example.coba1.app-packaged_res-13 E:\DATA\project\coba1\build\share\intermediates\packaged_res\debug

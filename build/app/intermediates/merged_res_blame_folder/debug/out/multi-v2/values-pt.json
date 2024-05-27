@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.coba1.app-mergeDebugResources-9:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\adity\\.gradle\\caches\\transforms-3\\28017e09d425dec634b46fb11b36c9e7\\transformed\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon May 27 13:31:55 ICT 2024
+base.0=E\:\\DATA\\project\\coba1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
